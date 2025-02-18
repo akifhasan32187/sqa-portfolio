@@ -1,0 +1,75 @@
+S.M. Ashraful Hasan
+Software Quality Assurance Engineer
+Phone: 01865646400
+Email: akif321870@gmail.com
+Address: Adabor, Shyamoli, Dhaka, Bangladesh
+LinkedIN: S.M Ashraful HASAN AKIF
+Experiences
+SQA Engineer
+Rebing Tech (https://rebingtech.com/)
+(February 2024 – Present)
+Technologies: Python, Flask, Selenium Webdriver, HTML, CSS
+I ensure smooth project management by tracking daily progress using Ezzyplan and the Jira board and delivering detailed monthly performance reports, ensuring timely and efficient project execution.
+•
+Various Modules testing manually according to the need.
+•
+Automated UI features like login, form validation, password management, language inputs etc using selenium webdriver.
+•
+Built an interface to execute automated python scripts, log results and capture output/errors in real-time.
+•
+Gaining familiarity with software development lifecycle (SDLC) methodologies like Agile or Waterfall.
+•
+Attending training sessions on software testing principles, methodologies and tools.
+Education
+B.Sc. (Eng.) in Computer Science and Engineering (Passing Year: 2023)
+Department of Electrical and Computer Engineering (ECE), North South University
+Higher Secondary Certificate (Passing Year: 2018)
+Science, Dhaka City College, Dhaka
+Secondary School Certificate (Passing Year: 2016)
+Science, Dhanmondi Govt. Boys’ High School, Dhaka
+Professional Skills
+Programming Languages: C, C++, Java, Python
+Data Analysis and Visualization: Scikit-Learn, Numpy, Pandas
+Database Management System: MySQL Server, Firebase
+Web Development: HTML, CSS, JavaScript, jQuery
+Project Management Tool: Jira, Trello, Asana
+Documentation Tool: Mkdocs Documentation Tool
+Others: Git, LaTeX, Api Testing, Microsoft Office (MS Word, Excel, PowerPoint, etc.)
+Major Projects
+Comprehensive Web Automation Script Execution Using Selenium and Flask
+Technologies: Python, Flask, Selenium WebDriver, HTML, CSS
+Page 2 of 2
+I developed a robust web-based automation platform that integrates Selenium WebDriver for automating profile updates,
+brand settings, system configurations and bank/invoice settings on the test-reidun.rebingtest.com website. The
+project included dynamic form validation, password management, UI theme testing, and spell-checking for Norwegian
+language inputs. Using Flask, I built an interface to execute Python scripts, log results, and capture output/errors in realtime.
+The application enhances efficiency by automating login/logout processes, form handling, and validation tasks,
+while providing error handling and detailed result reporting. Available in Github, Watch Demo Video
+Reidun Documentation for Users
+Technology: Mkdocs Documentation Tool
+This documentation provides comprehensive user manuals for Reidun Website. It includes guides for using the login
+page, navigating the dashboard, managing users, and adding new users. Each manual offers clear, step-by-step instructions
+to help users efficiently operate and manage the system’s features. Live Demo
+Transformer Model Optimization Bert
+Technologies: Pytorch, Keras, Tensorflow, Ktrain, Pandas
+In this project, I harnessed the power of a pre-trained BERT (Bidirectional Encoder Representations from Transformers)
+model to enhance the performance of several natural language understanding tasks. BERT, being a state-of-the-art
+transformer-based model, has proven to be highly effective in various NLP tasks, and our project aimed to fine-tune it for
+specific datasets, such as SST-2, Amazon product reviews, and COLA (Corpus of Linguistic Acceptability). Available in Github
+Professional Profiles
+• GitHub: Ashraful321870
+• LinkedIn: S.M Ashraful HASAN AKIF
+• Twitter: SMAshrafulHasan
+• Facebook: S M Ashraful Hasan
+• Portfolio: Ashraful Hasan
+Certifications
+• Introduction to Manual Testing: https://www.mygreatlearning.com/certificate/PLJJKBSG
+• Software Development Life Cycle Fundamentals - SDLC: https://www.mygreatlearning.com/certificate/XIUHGCFH
+• Selenium with Python: https://www.mygreatlearning.com/certificate/FNXHOBNI
+References
+Dr. Mohammad Ashrafuzzaman Khan Dr. MD Shahriar Karim
+Assistant Professor Assistant Professor
+Department of Electrical and Computer Engineering, Department of Electrical and Computer Engineering,
+North South University North South University
+Phone: +88 02 55668200 Ext – 6184 Phone: +88 02 55668200 Ext – 6373
+Email: mohammad.khan02@northsouth.edu Email: shahriar.karim@northsouth.edu
